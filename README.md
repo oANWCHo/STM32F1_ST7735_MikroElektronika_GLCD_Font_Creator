@@ -1,4 +1,4 @@
-# ST3375-stm32 import external Fonts.
+# ST7735 TFT LCD & STM32F1xx Import External Fonts.
 ST3375 w/ stm32f1xx Now can import external font format by MicroElectronica GLCD Fonts Creator.  
 Base on this project : https://github.com/ScarsFun/STM32F103C8T6_cubeIDE_ST7735_1.8_DMA
 
