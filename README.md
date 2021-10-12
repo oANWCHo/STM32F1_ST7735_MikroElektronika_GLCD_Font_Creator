@@ -22,7 +22,7 @@ Define a FontDef looks like in a below image at a bottom of file.</p>
 <img src="img/6.jpg" width="50%"/>
 And then open a fonts.h and Define a data looks like in a below image.</p>
 <img src="img/7.jpg" width="50%"/></p>
-Now you can use Fonts that you have imported in main.c</p>
+Now you can use Fonts that you have imported.</p>
 <img src="img/8.jpg" width="50%"/>
 <img src="img/9.jpg" width="50%"/>
 <img src="img/10.jpg" width="50%"/>
