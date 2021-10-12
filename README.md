@@ -5,7 +5,7 @@ Base on this project : https://github.com/ScarsFun/STM32F103C8T6_cubeIDE_ST7735_
 <img src="img/11.jpg" width="40%"/>   
 How to make a font?</p>   
 1. Download MicroElectronica GLCD Fonts Creator From this link : https://www.mikroe.com/glcd-font-creator</p>   
-2. Click "File" >> "New Fonts" >> "Import An Existing System Font"</p>
+2. Click "File" >> "New Font" >> "Import An Existing System Font"</p>
 <img src="img/1.jpg" width="40%"/> 
 And then Config a Font, Font style and Size that you prefer. Click "OK" and wait a program to generate a GLCD code.</p>
 <p float="left">
