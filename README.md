@@ -3,7 +3,7 @@ ST3375 w/ stm32f1xx Now can import external font format by MikroElektronika GLCD
 Base on this project : https://github.com/ScarsFun/STM32F103C8T6_cubeIDE_ST7735_1.8_DMA
 
 <img src="img/11.jpg" width="40%"/>   
-How to make a font?</p>   
+How to use this program?</p>   
 1. Download MikroElektronika GLCD Fonts Creator From this link : https://www.mikroe.com/glcd-font-creator</p>   
 2. Click "File" >> "New Font" >> "Import An Existing System Font"</p>
 <img src="img/1.jpg" width="40%"/> 
